@@ -18,3 +18,7 @@
 .friend-screen {
   padding: 0px var(--horizontal-space);
 }
+
+.screen-header__icons span {
+  position: relative;
+}
